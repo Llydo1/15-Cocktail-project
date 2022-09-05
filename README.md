@@ -1,15 +1,3 @@
-#### React Router Fix
+Git cocktail project guided by John Smilga 
+He is a great man. I can not achieve so much without his help 
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
-
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
-
-```sh
-npm install react-router-dom@6
-```
