@@ -6,12 +6,12 @@ import About from "./pages/About";
 import SingleCocktail from "./pages/SingleCocktail";
 import Error from "./pages/Error";
 // import components
-import Navbar from "./components/Navbar";
+import Layout from "./components/Layout";
 function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Navbar />}>
+        <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="about" element={<About />} />
           <Route path="cocktail/:productId" element={<SingleCocktail />} />
