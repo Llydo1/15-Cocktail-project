@@ -7,7 +7,7 @@ He is a great man. I can not achieve so much without his help. There has been so
 
 ## Run in localhost
 
-Open bash, cli
-`git clone *url*`
-`npm install && npm start`
+Open bash, cli  
+`git clone *url*`  
+`npm install && npm start`  
 Enjoy
